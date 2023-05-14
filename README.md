@@ -1,27 +1,11 @@
-# APPNOTICIAS
+#APP_NOTICIAS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
+LinkAppWeb: https://app-noticiasapi.netlify.app/
 
-## Development server
+AppWeb para obtener las noticias en tiempo real de una determinada lista de países filtrando los datos por categorias, consumiendo datos de la API https://www.newsapi.ai/ 
+![Captura de pantalla (168)](https://github.com/FreddyArreagaM/APP_NOTICIAS/assets/127709400/dcbd56d5-c947-48f6-8fcd-106fd9dcb57b)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Captura de pantalla (169)](https://github.com/FreddyArreagaM/APP_NOTICIAS/assets/127709400/25717866-5e6e-41f6-a369-2911cf4be0da)
 
-## Code scaffolding
+![image](https://github.com/FreddyArreagaM/APP_NOTICIAS/assets/127709400/13414d2d-465e-4d83-9a64-e04863a7483f)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
